@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title> Death Grips Fan Page </title>
+</head>    
+
+<body>
+    <img
+      src="https://miro.medium.com/max/3544/0*c6pyNzfb7ushL47-.jpg"
+      alt="Death Grips"
+      style="width:500px;height:400px;"
+    />
+    <h1>DEATH GRIPS IS ONLINE</h1>
+        <p>Death Grips is the best band ever!!</p>
+
+        <h2>About Death Grips</h2>
+          <p> <a href="https://en.wikipedia.org/wiki/Death_Grips" target= "_blank">Death Grips </a> is an American experimental hip hop band formed in 2010 in Sacramento, California. The group consists of MC Ride (vocals, lyrics), Zach Hill (drums, production), and Andy Morin (keyboards, production). Though he is not the band's frontman, Hill has been credited with being the driving creative force behind the project. Their sound, paired with Ride's aggressive performing style, draws on punk rock, electronic, noise, and industrial styles.</p>
+        <h3>Albums</h3>
+          <ol>
+              <li>Exmilitary</li>
+              <li>No Love Deep Web</li>
+              <li>The Money Store</li>
+              <li>Government Plates</li>
+              <li>The Powers That B</li>
+              <li>Fashion Week</li>
+              <li>Bottomless Pit</li>
+              <li>Year Of The Snitch</li>
+          </ol>
+         <h3>My Favorite Song: Beware</h3> 
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/uqcTVVUFnKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+        </iframe>
+</body>
+</html>
